@@ -1,0 +1,17 @@
+{
+  "test_model": {
+    "name": "鹄羹·原皮",
+    "model_type": 2,
+    "model_path": "./live2d/100001_hugeng/100001_hugeng.model.json"
+  },
+  "test_model3": {
+    "name": "鹄羹·醇香暖忆",
+    "model_type": 3,
+    "model_path": "./live2d/150154_hg_axhp/150154_hg_axhp.model3.json"
+  },
+  "150154_hg_axhb_xuyuan": {
+    "name": "鹄羹·醇香暖忆·Q版",
+    "model_type": 1,
+    "model_path": "./spine/150154_hg_axhb_xuyuan/150154_hg_axhb_xuyuan.config.json"
+  }
+}
