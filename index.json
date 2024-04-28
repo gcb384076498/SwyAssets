@@ -1,10 +1,10 @@
 {
-  "test_model": {
+  "100001_hugeng": {
     "name": "鹄羹·原皮",
     "model_type": 2,
     "model_path": "./live2d/100001_hugeng/100001_hugeng.model.json"
   },
-  "test_model3": {
+  "150154_hg_axhp": {
     "name": "鹄羹·醇香暖忆",
     "model_type": 3,
     "model_path": "./live2d/150154_hg_axhp/150154_hg_axhp.model3.json"
